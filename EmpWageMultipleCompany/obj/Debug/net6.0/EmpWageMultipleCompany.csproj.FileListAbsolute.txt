@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\bin\Debug\net6.0\EmpWageMultipleCompany.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\bin\Debug\net6.0\EmpWageMultipleCompany.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\bin\Debug\net6.0\EmpWageMultipleCompany.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\bin\Debug\net6.0\EmpWageMultipleCompany.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\bin\Debug\net6.0\EmpWageMultipleCompany.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\refint\EmpWageMultipleCompany.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\EmpWageMultipleCompany.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\EmpWageMultipleCompany\EmpWageMultipleCompany\EmpWageMultipleCompany\obj\Debug\net6.0\ref\EmpWageMultipleCompany.dll
